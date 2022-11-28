@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <h1>
+    Hey Welcome to My Github Portfolio
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <div id="badges">
     <a href="https://raw.github.com/effmuhammad/effmuhammad/main/pdf/resume_Effry_Muhammad.pdf">
       <img src="/img/cv_button.PNG" alt="Download My CV/Resume"/>
@@ -15,17 +19,14 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=effmuhammad&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
-<button class="button button1" onclick="window.location.href='/pdf/resume_Effry_Muhammad.pdf';">📄 View My CV / Resume</button>
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -35,6 +36,66 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+## PROJECT PORTFOLIO
+
+---
+
+### Categories:
+1. [Business and Finance](#cat1)
+2. [Machine Learning and Deep Learning](#cat2)
+3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
+4. [Random Projects](#cat4)
+5. [Code Snippets](#cat5)
+
+<a name="cat1"></a>
+
+---
+
+### 📈 Business and Finance
+
+- #### [Telco Provider Customer Churn Prediction](/sample_page)
+- #### [Stock Price Prediction Using LSTM (IDX:ANTM Case)](/cat1/stock_price_prediction_LSTM)
+- #### [Trading Decision Based on Orderbook Data Using 1D CNN Time-Series Classification](/sample_page)
+- #### [Indonesia Stock Trading Automation with IPOT Security based on PyAutoGUI and Tesseract](/sample_page)
+
+<a name="cat2"></a>
+
+---
+
+### 👨🏾‍💻 Machine Learning and Deep Learning
+
+- Human Activity Recognition Using 1D Convolutional Neural Network Time-Series
+- EEG Classification based on Kaggle Dataset 
+- Household Electricity Usage Data Prediction using LSTM-RNN
+- Tesseract Specific Font Transfer Learning
+
+<a name="cat3"></a>
+
+---
+
+### 🤖 Robotics, Computer Vision, IoT and Embedded System
+
+- Microsleep Detection Helmet with Haar Cascade Face Recognition and Image processing
+- Poultry Automatic Weighing System with IoT and AI for Medion Competition (3rd Place)
+- Automatic Chicken Incubator with Motion Sensor and IoT
+- IoT Single Phase Electricity Datalogger
+
+<a name="cat4"></a>
+
+---
+
+### 🧩 Random Projects
+
+- How I Deal with Throttling Old Laptop
+
+<a name="cat5"></a>
+
+---
+
+### 📌 Code Snippets
 
 ---
 
@@ -65,8 +126,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effmuhammad&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
