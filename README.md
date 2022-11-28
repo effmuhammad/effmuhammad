@@ -1,5 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
+    <a href="https://raw.github.com/effmuhammad/effmuhammad/main/pdf/resume_Effry_Muhammad.pdf">
+      <img src="/img/cv_button.PNG" alt="Download My CV/Resume"/>
+    </a>
+    <br>
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -21,7 +25,7 @@
 </div>
 
 ---
-
+<button class="button button1" onclick="window.location.href='/pdf/resume_Effry_Muhammad.pdf';">📄 View My CV / Resume</button>
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
