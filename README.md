@@ -58,7 +58,7 @@
 - How I Deal with Throttling Old Laptop
 
 ### 📌 Code Snippets
-
+- [Eff Github Gist](https://gist.github.com/effmuhammad)
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
