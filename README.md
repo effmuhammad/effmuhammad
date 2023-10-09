@@ -59,6 +59,8 @@
 
 ### 📌 Code Snippets
 - [Eff Github Gist](https://gist.github.com/effmuhammad)
+- [Flutter Reactive BLE, disconnected crash fixing](https://github.com/PhilipsHue/flutter_reactive_ble/issues/738)
+
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
