@@ -1,14 +1,11 @@
 <div id="header" align="center">
   <h1>
     Hey Welcome to My Github Portfolio
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div id="badges">
-    <a href="https://raw.github.com/effmuhammad/effmuhammad/main/pdf/resume_Effry_Muhammad.pdf">
-      <img src="/img/cv_button.PNG" alt="Download My CV/Resume"/>
-    </a>
     <br>
-    <a href="https://www.linkedin.com/in/effry-muhammad-228553154/">
+    <br>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/effry-muhammad/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCuMx3xBvFUoICmI6m7BHpqg">
@@ -27,11 +24,21 @@
 
 ---
 
-### 🤵 About
+## 🤵 About
+Hello world! My name is Effry Muhammad, I'm a
+- Full-Time Software Engineer in Flutter, Mobile Apps, Python Machine Learning, and Quant Trading Automation
+- Currently doing Research on Computer Vision and Automated Trading System
 
-- Enrolling in Bachelor Degree of Applied Science
-- Currently doing Research on Predictive Analytics and Anomaly Detection in Power Consumption
+<br>
 
+## 🗄️ Repository List
+A list of repositories link to help me open repository easily, some are close for  public.
+### 📚 Aplikasi Buku Sekolah
+- [Matematika Kelas 5 SD Kur. Merdeka Vol.1]()
+- [Matematika Kelas 5 SD Kur. Merdeka Vol.2]()
+
+
+<!-- 
 ### 📈 Business and Finance
 
 - [Telco Provider Customer Churn Prediction](/sample_page)
@@ -55,9 +62,9 @@
 
 ### 🧩 Random Projects
 
-- How I Deal with Throttling Old Laptop
+- How I Deal with Throttling Old Laptop -->
 
-### 📌 Code Snippets
+## 📌 Code Snippets
 - [Eff Github Gist](https://gist.github.com/effmuhammad)
 - [Flutter Reactive BLE, disconnected crash fixing](https://github.com/PhilipsHue/flutter_reactive_ble/issues/738)
 
@@ -77,8 +84,3 @@
 </div>
 
 <br>
-
-### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=effmuhammad&theme=light&background=EEEEEE)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effmuhammad&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
