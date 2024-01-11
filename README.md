@@ -4,8 +4,6 @@
     </h1>
   </div>
 
----
-
 ## 🤵 About
 - Professional Full-Time Software Engineer in Flutter, Mobile Apps, Python backend with machine learning, hardware+software integrations and product development
 - Currently doing Research on Computer Vision and Automated System
