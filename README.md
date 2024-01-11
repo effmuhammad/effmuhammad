@@ -1,12 +1,27 @@
 <div id="header" align="center">
   <h1>
-    Hey Welcome to My Github Portfolio
-    <br>
-    <br>
+    Hi 👋, call me Eff
+    </h1>
+  </div>
 
-  <div id="badges">
+---
+
+## 🤵 About
+- Professional Full-Time Software Engineer in Flutter, Mobile Apps, Python backend with machine learning, hardware+software integrations and product development
+- Currently doing Research on Computer Vision and Automated System
+
+<br>
+
+## 🗄️ Repository List
+A list of repositories link to help me open repository easily, some are close for  public.
+### 📚 Aplikasi Buku Sekolah
+- [Matematika Kelas 5 SD Kur. Merdeka Vol.1]()
+- [Matematika Kelas 5 SD Kur. Merdeka Vol.2](https://github.com/effmuhammad/matematika_5_sd_merdeka_vol2)
+
+<br>
+<div id="badges">
     <a href="https://www.linkedin.com/in/effry-muhammad/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://im  g.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCuMx3xBvFUoICmI6m7BHpqg">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -21,22 +36,6 @@
   <img src="https://komarev.com/ghpvc/?username=effmuhammad&style=flat-square&color=blue" alt=""/>
   
 </div>
-
----
-
-## 🤵 About
-Hello world! My name is Effry Muhammad, I'm a
-- Full-Time Software Engineer in Flutter, Mobile Apps, Python Machine Learning, and Quant Trading Automation
-- Currently doing Research on Computer Vision and Automated Trading System
-
-<br>
-
-## 🗄️ Repository List
-A list of repositories link to help me open repository easily, some are close for  public.
-### 📚 Aplikasi Buku Sekolah
-- [Matematika Kelas 5 SD Kur. Merdeka Vol.1]()
-- [Matematika Kelas 5 SD Kur. Merdeka Vol.2]()
-
 
 <!-- 
 ### 📈 Business and Finance
