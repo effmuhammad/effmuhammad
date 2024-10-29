@@ -10,30 +10,6 @@
 
 <br>
 
-## 🗄️ Repository List
-A list of repositories link to help me open repository easily, some are close for  public.
-### 📚 Aplikasi Buku Sekolah
-- [Matematika Kelas 5 SD Kur. Merdeka Vol.1]()
-- [Matematika Kelas 5 SD Kur. Merdeka Vol.2](https://github.com/effmuhammad/matematika_5_sd_merdeka_vol2)
-
-<br>
-<div id="badges">
-    <a href="https://www.linkedin.com/in/effry-muhammad/">
-      <img src="https://im  g.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCuMx3xBvFUoICmI6m7BHpqg">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.instagram.com/eff.muhammad/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="mailto:eff.muhammad@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=effmuhammad&style=flat-square&color=blue" alt=""/>
-  
-</div>
 
 <!-- 
 ### 📈 Business and Finance
