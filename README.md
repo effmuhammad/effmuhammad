@@ -5,8 +5,16 @@
   </div>
 
 ## 🤵 About
-- Professional Full-Time Software Engineer in Flutter, Mobile Apps, Python backend with machine learning, hardware+software integrations and product development
-- Currently doing Research on Computer Vision and Automated System
+
+* Full-Time Software Engineer specializing in Flutter & Mobile App Development, Python Backend, AI/Computer Vision, and Hardware–Software Integration.
+* Experienced in building end-to-end products, from embedded/device-level integrations and backend APIs to mobile/web applications and cloud infrastructure.
+* Currently conducting research and development in Computer Vision, Machine Learning, Medical Imaging, and Automated Systems.
+* Working on medical-device software integration, including imaging systems, camera control, REST APIs, SIMRS/HIS, PACS/DICOM, and healthcare interoperability workflows.
+* Experienced with integrating USB/UVC cameras, microcontrollers, serial communication, VISCA camera control, Linux-based embedded systems, and kiosk applications.
+* Building and maintaining backend and cloud systems using technologies such as Python, Flask, Firebase, Cloudflare, REST APIs, Docker, and Linux.
+* Interested in applying AI models to real-world products, particularly image classification, medical imaging assistance, automation, and intelligent software systems.
+* Experienced in product development, including architecture, prototyping, deployment, system integration, and turning technical concepts into production-ready applications.
+* Also building digital products and SaaS-oriented systems, with experience across education technology, subscription-based applications, cloud storage, and scalable application architecture.
 
 <br>
 
